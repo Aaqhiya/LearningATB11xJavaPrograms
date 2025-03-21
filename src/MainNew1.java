@@ -1,6 +1,6 @@
 public class MainNew1 {
     public static void main(String[] args) {
-        System.out.println("Hi surendra 'I LOVE YOU'");
+        System.out.println("Hi surendra !");
 
         int varInt = -35;
         System.out.println("integer :" +varInt);
